@@ -8,7 +8,7 @@ The main components include a Raspberry Pi 4, an Arduino Uno (to control the DC 
 
 ![block diagram](https://github.com/mjs161803/carl-robot/blob/main/carl%20block%20diagram.jpg)
 
-### Related Packages:
+### Related Repositories:
 [Motor Controller for Arduino](https://github.com/mjs161803/arduino-dual-motor-controller)
 
 [ROS2 Package For Custom Interfaces](https://github.com/mjs161803/carl_interfaces)
